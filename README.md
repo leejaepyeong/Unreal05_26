@@ -30,7 +30,7 @@ scale : 매터리얼 넣고 그렸을때  어색함 없애기(크기 안 맞을�
 
 simple 검색하면 simplegrassWind 추가
 
-이후  상수 (1,3키) vertexColor 넣기 
+이후  상수 (1,3키) vertexColor 넣기
 
 ![image](https://user-images.githubusercontent.com/80494367/119598454-f04f7400-be1d-11eb-8cc9-8afe9876b57c.png)
 
