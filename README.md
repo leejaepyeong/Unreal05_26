@@ -35,3 +35,25 @@ simple 검색하면 simplegrassWind 추가
 ![image](https://user-images.githubusercontent.com/80494367/119598454-f04f7400-be1d-11eb-8cc9-8afe9876b57c.png)
 
 상수 value 값 조절로 wind정도
+
+
+## 모델링 넣기
+
+![image](https://user-images.githubusercontent.com/80494367/119914038-5b25ba00-bf9a-11eb-8ea9-c44decfe82db.png)
+#### 스태틱 > 무버블 로 옮기면 실시간으로 라이트 넣어줌
+
+![image](https://user-images.githubusercontent.com/80494367/119914497-354ce500-bf9b-11eb-8aeb-f5a71d033e21.png)
+
+
+![image](https://user-images.githubusercontent.com/80494367/119914828-1a2ea500-bf9c-11eb-860c-4bfee082b030.png)
+
+#### 자동 노출  가까이 가면 밝아지는것
+
+![image](https://user-images.githubusercontent.com/80494367/119919560-aa251c80-bfa5-11eb-96e3-ebe2fa2738c0.png)
+
+#### 안개 포그 만들기
+
+![image](https://user-images.githubusercontent.com/80494367/119921098-641d8800-bfa8-11eb-9b51-abd4b5c20be2.png)
+
+#### 반사 정도 
+
